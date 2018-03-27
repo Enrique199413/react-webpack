@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b0de14e-40f2-4c2c-b5e1-712823904fb8" name="Default" comment="" />
+    <list default="true" id="0b0de14e-40f2-4c2c-b5e1-712823904fb8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../react-webpack/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../react-webpack/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../react-webpack/yarn-error.log" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -38,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/../react-webpack/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="14">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -209,12 +212,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522108060964</updated>
-      <workItem from="1522108062381" duration="3012000" />
+      <workItem from="1522108062381" duration="3078000" />
     </task>
+    <task id="LOCAL-00001" summary="Solve tutorial and pending CSS">
+      <created>1522163452469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522163452469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3012000" />
+    <option name="totallyTimeSpent" value="3078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="-4" width="1331" height="772" extended-state="6" />
@@ -244,6 +255,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solve tutorial and pending CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve tutorial and pending CSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -321,7 +336,7 @@
     <entry file="file://$PROJECT_DIR$/../react-webpack/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
