@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import mainStyles from './main.css'
+import {title} from './main.css'
 
 let userName = 'EnriqueLC'
 let todos = []
@@ -29,9 +29,9 @@ let count = 0
 const renderTodoApp = () => {
   const Index = () => {
     return <div>
-      <button onClick={addTodo} className={mainStyles.title}>Paco</button>
-      <button onClick={minusTodo} className={mainStyles.title}>Paco</button>
-      <button onClick={resetTodo} className={mainStyles.title}>Paco</button>
+      <button onClick={addTodo} className={title}>Paco</button>
+      <button onClick={minusTodo} className={title}>Paco</button>
+      <button onClick={resetTodo} className={title}>Paco</button>
       {count}
     </div>
   }
